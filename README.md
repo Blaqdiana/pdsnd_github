@@ -1,5 +1,3 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ![image](https://github.com/Blaqdiana/Bikeshare/assets/109005502/a46ad65e-d2a8-49d3-ae99-c3d167da1e19)
 
 
