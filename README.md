@@ -1,5 +1,4 @@
-![image](https://github.com/Blaqdiana/Bikeshare/assets/109005502/a46ad65e-d2a8-49d3-ae99-c3d167da1e19)
-
+![image](https://bocamag-webaholics.s3.us-west-2.amazonaws.com/wp-content/uploads/2022/03/IMG_9300-1030x687.jpg)
 
 # Udacity-BikeShare-Project:
 ## Python Project on Introduction to Programming in Data Science 
