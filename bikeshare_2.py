@@ -205,8 +205,9 @@ def main():
                 if start_idx >= len(df):
                     # Calculate the remaining data to display
                     blaqdiana = len(df) - len(value_range)
-                    # Print the remaining data and notify the user that there is no more data to display
+                    # Print the remaining data
                     print(df.iloc[start_idx:start_idx + blaqdiana])
+                    # Notify the user that there is no more data to display
                     print("No more raw data to display.")
             
 
